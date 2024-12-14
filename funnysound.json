@@ -14,5 +14,21 @@
   {
     "name": "Clocking",
     "image": "https://kelvinken510.github.io/kelvinken510/ic_clocking.xml"
+  },
+  {
+    "name": "Braking",
+    "image": "https://kelvinken510.github.io/kelvinken510/ic_fart_song.PNG"
+  },
+  {
+    "name": "Business & Office",
+    "image": "https://kelvinken510.github.io/kelvinken510/ic_fart_song.PNG"
+  },
+  {
+    "name": "Doors",
+    "image": "https://kelvinken510.github.io/kelvinken510/ic_door.xml"
+  },
+  {
+    "name": "Clocking",
+    "image": "https://kelvinken510.github.io/kelvinken510/ic_clocking.xml"
   }
 ]
