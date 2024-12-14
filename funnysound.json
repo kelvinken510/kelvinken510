@@ -9,10 +9,10 @@
   },
   {
     "name": "Doors",
-    "image": "ic_clocking.xml"
+    "image": "ic_door.xml"
   },
   {
     "name": "Clocking",
-    "image": "ic_fart_song.xml"
+    "image": "ic_clocking.xml"
   }
 ]
