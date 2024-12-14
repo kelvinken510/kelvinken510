@@ -50,5 +50,321 @@
             "name": "Animal 8",
             "audio": "https://kelvinken510.github.io/kelvinken510/animalsound1.mp3"
         }
+    ],
+    "Prank Call": [
+        {
+            "name": "Prank Call 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/prankcall1.mp3"
+        },
+        {
+            "name": "Prank Call 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/prankcall2.mp3"
+        },
+        {
+            "name": "Prank Call 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/prankcall3.mp3"
+        },
+        {
+            "name": "Prank Call 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/prankcall4.mp3"
+        },
+        {
+            "name": "Prank Call 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/prankcall5.mp3"
+        }
+    ],
+    "Fart": [
+        {
+            "name": "Fart 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Fart_1.mp3"
+        },
+        {
+            "name": "Fart 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Fart_2.mp3"
+        },
+        {
+            "name": "Fart 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Fart_3.mp3"
+        },
+        {
+            "name": "Fart 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Fart_4.mp3"
+        },
+        {
+            "name": "Fart 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Fart_5.mp3"
+        },
+        {
+            "name": "Fart 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Fart_4.mp3"
+        }
+    ],
+    "Scary": [
+        {
+            "name": "Scary 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Scary_1.mp3"
+        },
+        {
+            "name": "Scary 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Scary_2.mp3"
+        },
+        {
+            "name": "Scary 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Scary_3.mp3"
+        },
+        {
+            "name": "Scary 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Fart_4.mp3"
+        },
+        {
+            "name": "Scary 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Scary_5.mp3"
+        },
+        {
+            "name": "Scary 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Scary_6.mp3"
+        }
+    ],
+    "Gun": [
+        {
+            "name": "Gun 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Gun_1.mp3"
+        },
+        {
+            "name": "Gun 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Gun_2.mp3"
+        },
+        {
+            "name": "Gun 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Gun_3.mp3"
+        },
+        {
+            "name": "Gun 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Gun_4.mp3"
+        },
+        {
+            "name": "Gun 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Gun_5.mp3"
+        },
+        {
+            "name": "Gun 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Gun_6.mp3"
+        }
+    ],
+    "Laugh": [
+        {
+            "name": "Laugh 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Laugh_1.mp3"
+        },
+        {
+            "name": "Laugh 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Laugh_2.mp3"
+        },
+        {
+            "name": "Laugh 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Laugh_3.mp3"
+        },
+        {
+            "name": "Laugh 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Laugh_4.mp3"
+        },
+        {
+            "name": "Laugh 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Laugh_5.mp3"
+        },
+        {
+            "name": "Laugh 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Laugh_6.mp3"
+        },
+        {
+            "name": "Laugh 7",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Laugh_7.mp3"
+        }
+    ],
+    "Burp": [
+        {
+            "name": "Burp 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Burp_1.mp3"
+        },
+        {
+            "name": "Burp 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Burp_2.mp3"
+        },
+        {
+            "name": "Burp 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Burp_3.mp3"
+        },
+        {
+            "name": "Burp 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Burp_4.mp3"
+        },
+        {
+            "name": "Burp 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Burp_5.mp3"
+        },
+        {
+            "name": "Burp 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Burp_6.mp3"
+        }
+    ],
+    "Police": [
+        {
+            "name": "Police 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Police_1.mp3"
+        },
+        {
+            "name": "Police 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Police_2.mp3"
+        },
+        {
+            "name": "Police 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Police_3.mp3"
+        },
+        {
+            "name": "Police 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Police_4.mp3"
+        },
+        {
+            "name": "Police 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Police_5.mp3"
+        },
+        {
+            "name": "Police 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Police_6.mp3"
+        },
+        {
+            "name": "Police 7",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Police_7.mp3"
+        }
+    ],
+    "Vomit": [
+        {
+            "name": "Vomit 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Vomit_1.mp3"
+        },
+        {
+            "name": "Vomit 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Vomit_2.mp3"
+        },
+        {
+            "name": "Vomit 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Vomit_3.mp3"
+        },
+        {
+            "name": "Vomit 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Vomit_4.mp3"
+        },
+        {
+            "name": "Vomit 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Vomit_5.mp3"
+        },
+        {
+            "name": "Vomit 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Vomit_6.mp3"
+        }
+    ],
+    "Woman Cough": [
+        {
+            "name": "Woman Cough 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/WomanCough_1.mp3"
+        },
+        {
+            "name": "Woman Cough 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/WomanCough_2.mp3"
+        },
+        {
+            "name": "Woman Cough 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/WomanCough_3.mp3"
+        },
+        {
+            "name": "Woman Cough 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/WomanCough_4.mp3"
+        },
+        {
+            "name": "Woman Cough 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/WomanCough_5.mp3"
+        },
+        {
+            "name": "Woman Cough 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/WomanCough_6.mp3"
+        },
+        {
+            "name": "Woman Cough 7",
+            "audio": "https://kelvinken510.github.io/kelvinken510/WomanCough_7.mp3"
+        }
+    ],
+    "Man Cough": [
+        {
+            "name": "Man Cough 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/ManCough_1.mp3"
+        },
+        {
+            "name": "Man Cough 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/ManCough_2.mp3"
+        },
+        {
+            "name": "Man Cough 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/ManCough_3.mp3"
+        },
+        {
+            "name": "Man Cough 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/ManCough_4.mp3"
+        },
+        {
+            "name": "Man Cough 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/ManCough_5.mp3"
+        },
+        {
+            "name": "Man Cough 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/ManCough_6.mp3"
+        }
+    ],
+    "Hair Clipper": [
+        {
+            "name": "Hair Clipper 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/HairClipper1.mp3"
+        },
+        {
+            "name": "Hair Clipper 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/HairClipper2.mp3"
+        },
+        {
+            "name": "Hair Clipper 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/HairClipper3.mp3"
+        },
+        {
+            "name": "Hair Clipper 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/HairClipper4.mp3"
+        },
+        {
+            "name": "Hair Clipper 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/HairClipper5.mp3"
+        },
+        {
+            "name": "Hair Clipper 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/HairClipper6.mp3"
+        }
+    ],
+    "Taser": [
+        {
+            "name": "Taser 1",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Taser_1.mp3"
+        },
+        {
+            "name": "Taser 2",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Taser_2.mp3"
+        },
+        {
+            "name": "Taser 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Taser_3.mp3"
+        },
+        {
+            "name": "Taser 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Taser_4.mp3"
+        },
+        {
+            "name": "Taser 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/Taser_5.mp3"
+        }
     ]
 }
