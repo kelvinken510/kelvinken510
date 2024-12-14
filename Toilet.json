@@ -19,19 +19,19 @@
     ],
          "Animal Sound": [
         {
-          "name": "Toilet 1",
+          "name": "Animal 1",
           "audio": "https://kelvinken510.github.io/kelvinken510/Toilet_1.mp3"
         },
         {
-          "name": "Toilet 2",
+          "name": "Animal 2",
           "audio": "https://kelvinken510.github.io/kelvinken510/Toilet_2.mp3"
         },
         {
-          "name": "Toilet 3",
+          "name": "Animal 3",
           "audio": "https://kelvinken510.github.io/kelvinken510/Toilet_3.mp3"
         },
         {
-          "name": "Toilet 4",
+          "name": "Animal 4",
           "audio": "https://kelvinken510.github.io/kelvinken510/Toilet_4.mp3"
         }
     ]
