@@ -1,34 +1,58 @@
 [
   {
-    "name": "Braking",
-    "image": "https://kelvinken510.github.io/kelvinken510/ic_fart_song.PNG"
+    "name": "Toilet",
+    "image": "https://kelvinken510.github.io/kelvinken510/toilet.png"
   },
   {
-    "name": "Business & Office",
-    "image": "https://kelvinken510.github.io/kelvinken510/ic_fart_song.PNG"
+    "name": "Animal Sound",
+    "image": "https://kelvinken510.github.io/kelvinken510/animal_sound.png"
   },
   {
-    "name": "Doors",
-    "image": "https://kelvinken510.github.io/kelvinken510/ic_door.xml"
+    "name": "Prank Call",
+    "image": "https://kelvinken510.github.io/kelvinken510/prank_call.png"
   },
   {
-    "name": "Clocking",
-    "image": "https://kelvinken510.github.io/kelvinken510/ic_clocking.xml"
+    "name": "Fart",
+    "image": "https://kelvinken510.github.io/kelvinken510/fart.png"
   },
   {
-    "name": "Braking",
-    "image": "https://kelvinken510.github.io/kelvinken510/ic_fart_song.PNG"
+    "name": "Scary",
+    "image": "https://kelvinken510.github.io/kelvinken510/scary.png"
   },
   {
-    "name": "Business & Office",
-    "image": "https://kelvinken510.github.io/kelvinken510/ic_fart_song.PNG"
+    "name": "Gun",
+    "image": "https://kelvinken510.github.io/kelvinken510/gun.png"
   },
   {
-    "name": "Doors",
-    "image": "https://kelvinken510.github.io/kelvinken510/ic_door.xml"
+    "name": "Laugh",
+    "image": "https://kelvinken510.github.io/kelvinken510/laugh.png"
   },
   {
-    "name": "Clocking",
-    "image": "https://kelvinken510.github.io/kelvinken510/ic_clocking.xml"
+    "name": "Burp",
+    "image": "https://kelvinken510.github.io/kelvinken510/burp.png"
+  },
+  {
+    "name": "Police",
+    "image": "https://kelvinken510.github.io/kelvinken510/police.png"
+  },
+  {
+    "name": "Vomit",
+    "image": "https://kelvinken510.github.io/kelvinken510/vomit.png"
+  },
+  {
+    "name": "Woman Cough.png",
+    "image": "https://kelvinken510.github.io/kelvinken510/woman_cough.png"
+  },
+  {
+    "name": "Man Cough",
+    "image": "https://kelvinken510.github.io/kelvinken510/main_cough.png"
+  },
+  {
+    "name": "Hair Clipper",
+    "image": "https://kelvinken510.github.io/kelvinken510/hair_clipper.png"
+  },
+  {
+    "name": "Taser",
+    "image": "https://kelvinken510.github.io/kelvinken510/taser.png"
   }
 ]
