@@ -20,11 +20,35 @@
     "Animal Sound": [
         {
             "name": "Animal 1",
-            "audio": "https://kelvinken510.github.io/kelvinken510/Animal_1.mp3"
+            "audio": "https://kelvinken510.github.io/kelvinken510/animalsound1.mp3"
         },
         {
             "name": "Animal 2",
-            "audio": "https://kelvinken510.github.io/kelvinken510/Animal_2.mp3"
+            "audio": "https://kelvinken510.github.io/kelvinken510/animalsound1.mp3"
+        },
+        {
+            "name": "Animal 3",
+            "audio": "https://kelvinken510.github.io/kelvinken510/animalsound1.mp3"
+        },
+        {
+            "name": "Animal 4",
+            "audio": "https://kelvinken510.github.io/kelvinken510/animalsound1.mp3"
+        },
+        {
+            "name": "Animal 5",
+            "audio": "https://kelvinken510.github.io/kelvinken510/animalsound1.mp3"
+        },
+        {
+            "name": "Animal 6",
+            "audio": "https://kelvinken510.github.io/kelvinken510/animalsound1.mp3"
+        },
+        {
+            "name": "Animal 7",
+            "audio": "https://kelvinken510.github.io/kelvinken510/animalsound1.mp3"
+        },
+        {
+            "name": "Animal 8",
+            "audio": "https://kelvinken510.github.io/kelvinken510/animalsound1.mp3"
         }
     ]
 }
