@@ -1,18 +1,18 @@
 [
   {
     "name": "Braking",
-    "image": "path/to/john_image.jpg"
+    "image": "ic_breaking.xml"
   },
   {
     "name": "Business & Office",
-    "image": "path/to/jane_image.jpg"
+    "image": "ic_business.xml"
   },
   {
     "name": "Doors",
-    "image": "path/to/alice_image.jpg"
+    "image": "ic_clocking.xml"
   },
   {
     "name": "Clocking",
-    "image": "path/to/alice_image.jpg"
+    "image": "ic_fart_song.xml"
   }
 ]
